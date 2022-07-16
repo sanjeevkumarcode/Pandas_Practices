@@ -1,1 +1,2 @@
-# Pandas_Practice_W3Schools
+# Pandas_Practices
+This repository is created to upload all the analyst works of Pandas.
